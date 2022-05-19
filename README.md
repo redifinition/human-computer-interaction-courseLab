@@ -1,2 +1,0 @@
-# human-computer-interaction-courseLab
- 
